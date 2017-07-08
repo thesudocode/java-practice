@@ -18,7 +18,7 @@ public class NestedInterface implements Interface.AnotherInterface {
     }
 
     public static void main(String[] args){
-        Interface.AnotherInterface ni = new NestedInterface();
+        Interface.AnotherInterface ni = new NestedInterface(); //upcasting
         ni.show();
     }
 }
