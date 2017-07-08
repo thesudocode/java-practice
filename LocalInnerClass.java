@@ -3,6 +3,11 @@ package com.iamoperand.javaConcepts;
 /**
  * Created by iamoperand on 8/7/17.
  */
+
+
+/*
+    A class i.e. created inside a method is called local inner class in java
+*/
 public class LocalInnerClass {
     private int data = 30;
 
